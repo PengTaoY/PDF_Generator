@@ -1,0 +1,3 @@
+﻿需要引用两个nuget包
+该方法只能在windows服务器中使用。
+因为ColorCode.HTML只支持windows服务器。
